@@ -7,5 +7,5 @@ sudo python wifiauto.py <interface>
 ```
 Find your wifi adapter:
 ```bash
-sudo ioclt
+sudo ip a
 ```
